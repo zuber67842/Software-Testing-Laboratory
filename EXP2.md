@@ -16,6 +16,11 @@ Algorithm:
 5. Perform matrix multiplication and store the answer in result.
 6. Stop the program.
 ### Program:
+![Screenshot 2025-04-09 081550](https://github.com/user-attachments/assets/135d06b1-b440-48a9-b77b-8e782dab80fc)
+![Screenshot 2025-04-09 081606](https://github.com/user-attachments/assets/30b9dbee-2a1c-465e-a0f0-0b555014c440)
+### output
+![Screenshot 2025-04-09 081620](https://github.com/user-attachments/assets/88253396-cfa6-4e15-97b7-3a7905078fcd)
+
 
 
 
